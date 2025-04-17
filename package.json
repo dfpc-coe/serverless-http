@@ -1,6 +1,6 @@
 {
   "name": "@tak-ps/serverless-http",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "Use existing web application frameworks in serverless environments",
   "main": "serverless-http.js",
   "types": "serverless-http.d.ts",
